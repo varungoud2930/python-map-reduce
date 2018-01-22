@@ -5,11 +5,12 @@ in preparation for working with MapReduce
 
 # Requirements
 
-- Download and install Python 2.6.6 
-- Git for Windows
-- TortoiseGit
-- Open Command Window Here as Administrator
-- Notepad++ for text editing
+- Install Chocolatey, the Windows package manager.
+- Install Python 2.6.6 
+- Install Git for Windows
+- Install TortoiseGit
+- Add Open Command Window Here as Administrator to your File Explorer context menu.
+- Install Visual Studio Code for text editing
 
 # References
 
