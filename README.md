@@ -10,7 +10,8 @@ in preparation for working with MapReduce
 - Install Git for Windows
 - Install TortoiseGit
 - Add Open Command Window Here as Administrator to your File Explorer context menu.
-- Install Visual Studio Code for text editing
+- Install Notepad++ or 
+- Visual Studio Code for text editing (w/Python extension by Microsoft >5M istalls)
 
 # References
 
