@@ -5,7 +5,6 @@ lines = o.readlines()
 lines.sort()
 
 for line in lines:
-  print line
   s.write(line)
 
 o.close()
