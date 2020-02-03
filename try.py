@@ -1,4 +1,4 @@
-print "hello, world!"
-print 'hello, bearcat!'
-print '\n'
+print ("hello, world!")
+print ('hello, bearcat!')
+print ('\n')
 
