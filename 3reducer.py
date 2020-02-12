@@ -1,5 +1,5 @@
-s = open("s.txt","r")
-r = open("r.txt", "w")
+s = open("02.txt","r")
+r = open("03.txt", "w")
 
 thisKey = ""
 thisValue = 0.0
